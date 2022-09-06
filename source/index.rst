@@ -2,7 +2,9 @@ A pocketful of acorns
 =================================================
 
 Physical security involves controlling who has physical access to the facility, the servers, network equipment, and
-end-user devices.
+end-user devices. A physical penetration test assesses all physical security controls, including locks, fences,
+security guards, cameras, and other security measures. It attempts to bypass the security
+controls to gain physical access to restricted areas, identify sensitive data, and gain an entry to a network.
 
 .. image:: _static/images/in-progress.png
   :alt: In Progress ...
