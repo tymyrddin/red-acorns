@@ -29,4 +29,5 @@ This project welcomes contributions and suggestions.
 [Open an issue here](https://github.com/tymyrddin/red-acorns/issues)
 
 ## Mind
-Where you stand depends on where you sit, and all threats are cross-vector threats. Without a clear mandate for testing, measuring and reporting actual improvements in security, attempts at improving security makes absolutely no sense, not even for the low-hanging fruit.  
+
+On nights such as these the gods, as has already been pointed out, play games other than chess with the fates of mortals and the thrones of kings. It is important to remember that they always cheat, right up to the end... ~TP
