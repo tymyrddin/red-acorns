@@ -39,4 +39,4 @@ controls to gain physical access to restricted areas, identify sensitive data, a
 .. toctree::
    :caption: Links
 
-   Red Team <https://tymyrddin.github.io/red/>
+   Red Team <https://red.tymyrddin.dev/>
