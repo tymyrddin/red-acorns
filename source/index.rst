@@ -6,6 +6,8 @@ end-user devices. A physical penetration test assesses all physical security con
 security guards, cameras, and other security measures. It attempts to bypass the security
 controls to gain physical access to restricted areas, identify sensitive data, and gain an entry to a network.
 
+----
+
 .. toctree::
    :glob:
    :maxdepth: 1
@@ -32,8 +34,3 @@ controls to gain physical access to restricted areas, identify sensitive data, a
 
    docs/opsec/README.md
    docs/opsec/*
-
-.. toctree::
-   :caption: Links
-
-   Red Team <https://red.tymyrddin.dev/>
