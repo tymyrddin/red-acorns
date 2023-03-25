@@ -10,6 +10,6 @@ Identify vulnerabilities and weaknesses in opsec.
 
 ## How?
 
-* [Get people to talk](interrogation.md)
+* [Get people to talk](talk.md)
 * [USB key drop](usb.md)
 
