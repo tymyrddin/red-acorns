@@ -3,7 +3,7 @@
 Built with [Sphinx](https://www.sphinx-doc.org) using a [theme](https://github.com/readthedocs/sphinx_rtd_theme) provided
 by [Read the Docs](https://readthedocs.org/).
 
-[![Documentation Status](https://readthedocs.org/projects/red-acorns/badge/?version=latest)](https://red.tymyrddin.dev/projects/acorns/en/latest/?badge=latest)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5dd1874f-3a16-405e-b74c-f6dd3484d3b7/deploy-status)](https://app.netlify.com/sites/timely-bavarois-8c97e4/deploys)
 
 ## Requirements
 
