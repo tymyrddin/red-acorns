@@ -15,11 +15,18 @@ The exception is the social engineering part, in particular phishing simulations
 .. toctree::
    :maxdepth: 1
    :includehidden:
+   :caption: Testlab
+
+   Additional hardware <https://testlab.tymyrddin.dev/docs/hardware/README>
+   Social engineering <https://testlab.tymyrddin.dev/docs/se/README>
+
+
+.. toctree::
+   :maxdepth: 1
+   :includehidden:
    :caption: Preparation
 
-   Build a local testlab: Additional hardware <https://red.tymyrddin.dev/projects/testlab/en/latest/docs/hardware/README.html>
-   Build a local testlab: Social engineering <https://red.tymyrddin.dev/projects/testlab/en/latest/docs/se/README.html>
-   Reconnaissance <https://red.tymyrddin.dev/projects/recon/en/latest/docs/physical/README.html>
+   Reconnaissance <https://recon.tymyrddin.dev/physical/README.html>
 
 .. toctree::
    :glob:
