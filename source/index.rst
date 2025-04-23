@@ -26,7 +26,7 @@ The exception is the social engineering part, in particular phishing simulations
    :includehidden:
    :caption: Preparation
 
-   Reconnaissance <https://recon.tymyrddin.dev/physical/README.html>
+   Reconnaissance <https://recon.tymyrddin.dev/docs/physical/README.html>
 
 .. toctree::
    :glob:
